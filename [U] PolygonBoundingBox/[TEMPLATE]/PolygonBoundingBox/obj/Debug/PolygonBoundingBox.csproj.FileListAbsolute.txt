@@ -1,0 +1,27 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U11] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[SOLUTION]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.pdb
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe.config
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.exe
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\bin\Debug\PolygonBoundingBox.pdb
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.exe
+C:\Users\User\Downloads\[U] PolygonBoundingBox\[TEMPLATE]\PolygonBoundingBox\obj\Debug\PolygonBoundingBox.pdb
