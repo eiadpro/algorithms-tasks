@@ -1,0 +1,7 @@
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\bin\Debug\SkatingTravel.exe.config
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\bin\Debug\SkatingTravel.exe
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\bin\Debug\SkatingTravel.pdb
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\obj\Debug\SkatingTravel.csproj.AssemblyReference.cache
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\obj\Debug\SkatingTravel.csproj.CoreCompileInputs.cache
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\obj\Debug\SkatingTravel.exe
+E:\Abdelrahman\Algorithms\Assignments\Assignment3\[TEMPLATE]\SkatingTravel\obj\Debug\SkatingTravel.pdb
