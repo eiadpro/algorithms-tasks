@@ -1,0 +1,35 @@
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.exe.config
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.exe
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.pdb
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.csproj.AssemblyReference.cache
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.exe
+C:\Users\Youssef\Downloads\Compressed\3 Yousef\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.pdb
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.exe.config
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.exe
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\bin\Debug\MobileBaseStation.pdb
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.csproj.AssemblyReference.cache
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.csproj.CoreCompileInputs.cache
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.exe
+G:\Algo\Assignment\MobileBaseStationAssignment\[SOLUTION]\PROBLEM_NAME\obj\Debug\MobileBaseStation.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\bin\Debug\MobileBaseStation.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\bin\Debug\MobileBaseStation.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\bin\Debug\MobileBaseStation.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\obj\Debug\MobileBaseStation.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[SOLUTION]\MobileBaseStation\obj\Debug\MobileBaseStation.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.pdb
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.exe.config
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.exe
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\bin\Debug\MobileBaseStation.pdb
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.exe
+C:\Users\User\Downloads\[U] MobileBaseStation\[TEMPLATE]\MobileBaseStation\obj\Debug\MobileBaseStation.pdb
