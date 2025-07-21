@@ -1,19 +1,3 @@
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.csprojResolveAssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\GraphGenerator.dll
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\GraphGenerator.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\IsItTree.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\GraphGenerator.dll
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\GraphGenerator.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\IsItTree.csprojResolveAssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it DAG\[SOLUTION]\IsItDAG\bin\Debug\IsItTree.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it DAG\[SOLUTION]\IsItDAG\obj\Debug\IsItTree.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[1 - AUTOGRADE] Is it DAG\[SOLUTION]\IsItDAG\obj\Debug\IsItTree.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:273d118cf27db9cf20be469cf87d1d088f9c05d219d0ed65242d9df233fd88f3
+size 2797

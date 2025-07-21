@@ -1,7 +1,3 @@
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.AssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.CoreCompileInputs.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:320dfa6272ed5f283a6f49840bffb6d35a3ee904344f2a13b94913e7529a8cf9
+size 950

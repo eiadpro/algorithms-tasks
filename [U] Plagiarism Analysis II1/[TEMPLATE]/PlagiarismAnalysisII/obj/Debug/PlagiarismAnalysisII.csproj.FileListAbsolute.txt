@@ -1,14 +1,3 @@
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.exe.config
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.exe
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.pdb
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.csproj.AssemblyReference.cache
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.csproj.CoreCompileInputs.cache
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.exe
-C:\Users\User\Downloads\[U] Plagiarism Analysis II\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.pdb
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.exe.config
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.exe
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\bin\Debug\PlagiarismAnalysisII.pdb
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.csproj.CoreCompileInputs.cache
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.exe
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.pdb
-C:\Users\User\Downloads\[U] Plagiarism Analysis II1\[TEMPLATE]\PlagiarismAnalysisII\obj\Debug\PlagiarismAnalysisII.csproj.AssemblyReference.cache
+version https://git-lfs.github.com/spec/v1
+oid sha256:e69c0bbb8fbb1e67d731088dfc9e364ea584b5d55b34716ffb0e7b4e576cac38
+size 1795
